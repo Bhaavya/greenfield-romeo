@@ -1,4 +1,4 @@
-# ── VPC ────────────────────────────────────────────────────────────────
+# ── VPC (region: us-east-1) ────────────────────────────────────────────
 cidr_block   = "10.80.0.0/16"   # VPC CIDR block
 aws_vpc_name = "vpc-romeo"       # VPC name tag
 env_name     = "test"            # Environment tag
